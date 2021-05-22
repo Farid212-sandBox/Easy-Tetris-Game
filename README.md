@@ -19,8 +19,7 @@
 
 👤 **Farid212**
 
-* Website: https://www.asmuch.xyz/
-* Twitter: [@faridh212](https://twitter.com/faridh212)
+* Website: https://farid212.dev/
 * Github: [@farid212](https://github.com/farid212)
 
 ## 🤝 Contributing
